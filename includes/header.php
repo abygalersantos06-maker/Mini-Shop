@@ -3,9 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mini Food Shop</title>
+    <title>Healthy MiniShop – Stock Control</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
-    <h1>Mini Healthy Goods Shop</h1>
+    <header class="main-header">
+        <h1 class="title">Healthy MiniShop</h1>
+        <h2 class="subtitle">STOCK CONTROL</h2>
+    </header>
